@@ -51,6 +51,6 @@ một câu văn chung chung.
 - Nếu người khác quyết ngược lại thì model học sai cái gì: Model sẽ học sai.
 ## 4. Sau khi so visibility report với bạn cùng nhóm
 
-- Khớp lệch `%v=1` nhiều nhất: `left_ear` (bạn `62%` / họ `48%`)
-- Nguyên nhân là **guideline chưa rõ** hay **một trong hai bên gán sai**: guideline chưa rõ ở phần tai và hông bị che bởi quần áo hoặc mũ, nên cần thống nhất thêm luật trước khi gán tiếp.
-- Luật mới bổ sung vào mục 2 sau khi thống nhất: Nếu khớp còn trong khung nhưng bị che bởi tóc, mũ, quần áo, tay lái hoặc thân mình, vẫn đặt chấm ở vị trí ước lượng và gắn `v = 1`; chỉ khi khớp thật sự ra ngoài mép ảnh mới không đặt chấm và dùng `v = 0`.
+- Khớp lệch `%v=1` nhiều nhất: `______` (bạn `___%` / họ `___%`)
+- Nguyên nhân là **guideline chưa rõ** hay **một trong hai bên gán sai**:
+- Luật mới bổ sung vào mục 2 sau khi thống nhất: ###
